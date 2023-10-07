@@ -1,10 +1,6 @@
 '''
-3# Projeto pessoal para treino. Lista de Tarefas
-
-Funções a serem implementadas:
-* Editar tarefas já criadas
-* Adicionar algum grau importacia
-* Deixar menos feio (Prioridade, mas não faço sei como fazer)
+To-do List
+V1
 '''
 
 import tkinter as tk

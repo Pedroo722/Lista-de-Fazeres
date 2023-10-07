@@ -1,1 +1,1 @@
-Primeiro micro-projeto pessoal em Python. Lista de tarefas utilizando o tkinter
+Primeiro micro-projeto pessoal em Python para a disciplina de Algoritmos e Lógica de Programação. Lista de tarefas utilizando o tkinter como interface gráfica
