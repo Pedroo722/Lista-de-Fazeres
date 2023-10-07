@@ -1,0 +1,1 @@
+Primeiro micro-projeto pessoal em Python. Lista de tarefas utilizando o tkinter
